@@ -1,0 +1,11 @@
+#prefix=/c/projects/dist
+prefix=${pcfiledir}/../..
+datarootdir=${prefix}/share
+datadir=${datarootdir}/coin-or-miplib3
+
+Name: Miplib3
+Description: Miplib3 models
+URL: https://github.com/coin-or-tools/Data-miplib3
+Version: trunk
+Libs:
+Cflags:
