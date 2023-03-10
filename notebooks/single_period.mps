@@ -5276,10 +5276,10 @@ COLUMNS
         lineup[6]                    total_xp                      -2.70 lineup_count                  1.0
         lineup[6]                    lineup_squad_rel[6]            1.00 captain_lineup_rel[6]        -1.0
         lineup[6]                    vicecap_lineup_rel[6]         -1.00 valid_formation[3]            1.0
-        lineup[7]                    total_xp                      -4.70 lineup_count                  1.0
+        lineup[7]                    total_xp                      -3.50 lineup_count                  1.0
         lineup[7]                    lineup_squad_rel[7]            1.00 captain_lineup_rel[7]        -1.0
         lineup[7]                    vicecap_lineup_rel[7]         -1.00 valid_formation[3]            1.0
-        lineup[8]                    total_xp                      -0.80 lineup_count                  1.0
+        lineup[8]                    total_xp                      -0.60 lineup_count                  1.0
         lineup[8]                    lineup_squad_rel[8]            1.00 captain_lineup_rel[8]        -1.0
         lineup[8]                    vicecap_lineup_rel[8]         -1.00 valid_formation[2]            1.0
         lineup[9]                    lineup_count                   1.00 lineup_squad_rel[9]           1.0
@@ -5678,9 +5678,9 @@ COLUMNS
         lineup[510]                  total_xp                      -5.10 lineup_count                  1.0
         lineup[510]                  lineup_squad_rel[510]          1.00 captain_lineup_rel[510]      -1.0
         lineup[510]                  vicecap_lineup_rel[510]       -1.00 valid_formation[2]            1.0
-        lineup[515]                  total_xp                      -1.10 lineup_count                  1.0
-        lineup[515]                  lineup_squad_rel[515]          1.00 captain_lineup_rel[515]      -1.0
-        lineup[515]                  vicecap_lineup_rel[515]       -1.00 valid_formation[3]            1.0
+        lineup[515]                  lineup_count                   1.00 lineup_squad_rel[515]         1.0
+        lineup[515]                  captain_lineup_rel[515]       -1.00 vicecap_lineup_rel[515]      -1.0
+        lineup[515]                  valid_formation[3]             1.00                                  
         lineup[517]                  lineup_count                   1.00 lineup_squad_rel[517]         1.0
         lineup[517]                  captain_lineup_rel[517]       -1.00 vicecap_lineup_rel[517]      -1.0
         lineup[517]                  valid_formation[1]             1.00                                  
@@ -7513,9 +7513,9 @@ COLUMNS
         captain[5]                   captain_lineup_rel[5]          1.00 cap_vc_rel[5]                 1.0
         captain[6]                   total_xp                      -2.70 captain_count                 1.0
         captain[6]                   captain_lineup_rel[6]          1.00 cap_vc_rel[6]                 1.0
-        captain[7]                   total_xp                      -4.70 captain_count                 1.0
+        captain[7]                   total_xp                      -3.50 captain_count                 1.0
         captain[7]                   captain_lineup_rel[7]          1.00 cap_vc_rel[7]                 1.0
-        captain[8]                   total_xp                      -0.80 captain_count                 1.0
+        captain[8]                   total_xp                      -0.60 captain_count                 1.0
         captain[8]                   captain_lineup_rel[8]          1.00 cap_vc_rel[8]                 1.0
         captain[9]                   captain_count                  1.00 captain_lineup_rel[9]         1.0
         captain[9]                   cap_vc_rel[9]                  1.00                                  
@@ -7781,8 +7781,8 @@ COLUMNS
         captain[100]                 cap_vc_rel[100]                1.00                                  
         captain[510]                 total_xp                      -5.10 captain_count                 1.0
         captain[510]                 captain_lineup_rel[510]        1.00 cap_vc_rel[510]               1.0
-        captain[515]                 total_xp                      -1.10 captain_count                 1.0
-        captain[515]                 captain_lineup_rel[515]        1.00 cap_vc_rel[515]               1.0
+        captain[515]                 captain_count                  1.00 captain_lineup_rel[515]       1.0
+        captain[515]                 cap_vc_rel[515]                1.00                                  
         captain[517]                 captain_count                  1.00 captain_lineup_rel[517]       1.0
         captain[517]                 cap_vc_rel[517]                1.00                                  
         captain[526]                 total_xp                      -3.10 captain_count                 1.0
@@ -9007,9 +9007,9 @@ COLUMNS
         vicecap[5]                   vicecap_lineup_rel[5]          1.00 cap_vc_rel[5]                 1.0
         vicecap[6]                   total_xp                      -0.27 vicecap_count                 1.0
         vicecap[6]                   vicecap_lineup_rel[6]          1.00 cap_vc_rel[6]                 1.0
-        vicecap[7]                   total_xp                      -0.47 vicecap_count                 1.0
+        vicecap[7]                   total_xp                      -0.35 vicecap_count                 1.0
         vicecap[7]                   vicecap_lineup_rel[7]          1.00 cap_vc_rel[7]                 1.0
-        vicecap[8]                   total_xp                      -0.08 vicecap_count                 1.0
+        vicecap[8]                   total_xp                      -0.06 vicecap_count                 1.0
         vicecap[8]                   vicecap_lineup_rel[8]          1.00 cap_vc_rel[8]                 1.0
         vicecap[9]                   vicecap_count                  1.00 vicecap_lineup_rel[9]         1.0
         vicecap[9]                   cap_vc_rel[9]                  1.00                                  
@@ -9275,8 +9275,8 @@ COLUMNS
         vicecap[100]                 cap_vc_rel[100]                1.00                                  
         vicecap[510]                 total_xp                      -0.51 vicecap_count                 1.0
         vicecap[510]                 vicecap_lineup_rel[510]        1.00 cap_vc_rel[510]               1.0
-        vicecap[515]                 total_xp                      -0.11 vicecap_count                 1.0
-        vicecap[515]                 vicecap_lineup_rel[515]        1.00 cap_vc_rel[515]               1.0
+        vicecap[515]                 vicecap_count                  1.00 vicecap_lineup_rel[515]       1.0
+        vicecap[515]                 cap_vc_rel[515]                1.00                                  
         vicecap[517]                 vicecap_count                  1.00 vicecap_lineup_rel[517]       1.0
         vicecap[517]                 cap_vc_rel[517]                1.00                                  
         vicecap[526]                 total_xp                      -0.31 vicecap_count                 1.0
